@@ -1,3 +1,5 @@
+# A guide for funding open source - very WIP
+
 # marketing basics
 
 [conversion
