@@ -130,6 +130,8 @@ first](https://drewdevault.com/2021/03/03/To-make-money-in-FOSS-build-a-business
 
 creator of sway and sourcehut on open source funding
 
+[How does SourceHut's FOSS business model work?](https://sourcehut.org/blog/2022-01-09-how-does-our-business-work/)
+
 [Why the GPL is great for
 business](https://archive.fosdem.org/2020/schedule/event/gpl_and_business/)
 
