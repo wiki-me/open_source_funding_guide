@@ -1,5 +1,13 @@
 # A guide for funding open source - very WIP
 
+# Introduction
+
+The goal of this document is to help open source maintainers fund their project. It includes explanations of some marketing concepts, a list of case studies of open source projects that successfully achieved funding , useful websites for funding and other learning resources.
+
+Keep in mind i am just some dude on the internet and have no formal training on the subject, Feel free to open an issue If you found a mistake or have feedback or a suggestion.
+
+Positive feedback could also be useful, It could help validate that what i am doing is useful (And therefore motivate and help me to decide to prioritize working on this), Maybe i could set up a "testimonies" that will persuade people to read this stuff and give it a try, So if you read something and got good results from implementing it please post about it [here](https://github.com/wiki-me/open_source_funding_guide/issues/2).
+
 # marketing basics
 
 [conversion
