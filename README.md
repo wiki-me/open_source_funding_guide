@@ -144,3 +144,7 @@ creator of sway and sourcehut on open source funding
 business](https://archive.fosdem.org/2020/schedule/event/gpl_and_business/)
 
 talk by the Founder of nextcloud and owncloud.
+
+[The Asymmetry of Open Source - A comprehensive guide to funding open source software projects](https://matt.life/writing/the-asymmetry-of-open-source)
+
+Post by a full time OSS developer
