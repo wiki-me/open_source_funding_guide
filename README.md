@@ -98,6 +98,8 @@ US\$12922.00/month (on march 2021).
 meaning basically how many people view something on stuff like the
 repository or the homepage )
 
+[How React Flow became a financially sustainable open source library](https://reactflow.dev/blog/asking-for-money-for-open-source/)
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
@@ -148,3 +150,4 @@ talk by the Founder of nextcloud and owncloud.
 [The Asymmetry of Open Source - A comprehensive guide to funding open source software projects](https://matt.life/writing/the-asymmetry-of-open-source)
 
 Post by a full time OSS developer
+
