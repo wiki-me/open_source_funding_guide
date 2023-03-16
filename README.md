@@ -112,6 +112,10 @@ repository or the homepage )
 
 # learning resources:
 
+[I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
+
+Authors makes a income similar to the one he had at google, by offering retainers to companies that benefit from his work , and using the reputation he acquired as a open source maintainer to offer consulting.
+
 [14 Rewards for Software Developers to Fund Independent
 Projects](https://blog.patreon.com/rewards-software-developers)
 
