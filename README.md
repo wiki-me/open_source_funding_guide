@@ -80,7 +80,17 @@ Foundation](https://wiki.osmfoundation.org/wiki/Main_Page)
 
 [Thunderbird](https://groups.google.com/g/tb-planning/c/-jbmYvYdX1g)
 
-(thunderbird got 15 people hired in 2020)
+thunderbird got 15 people hired in 2020, [in 2022]([url](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)) revenue was about 6M (more then double the previous year), they explained the growth by saing:  
+
+>Before we discuss that, you might be wondering what we did differently to generate such a significant surge of support last year. 
+
+>At the end of 2021, we decided to make a bigger investment in communicating with you. That meant more frequent blog posts and newsletters, daily engagement across our social media channels, and expanding the number of places we interact with you (like our relatively new Mastodon account). 
+
+>We also attribute this amazing uplift to the release of Thunderbird 102, as well as a first-of-its-kind, in-app donation appeal at the end of year. 
+
+>In short, we learned that projects like ours can benefit greatly from simply asking for donations, while simultaneously explaining how those donations will benefit the project – and ultimately, how they will benefit you. So let’s talk about that! 
+
+
 
 [krita](https://krita.org/en/item/the-inside-view-how-krita-is-developed/)
 
