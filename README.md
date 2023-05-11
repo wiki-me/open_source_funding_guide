@@ -80,7 +80,7 @@ Foundation](https://wiki.osmfoundation.org/wiki/Main_Page)
 
 [Thunderbird](https://groups.google.com/g/tb-planning/c/-jbmYvYdX1g)
 
-thunderbird got 15 people hired in 2020, [in 2022]([url](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)) revenue was about 6M (more then double the previous year), they explained the growth by saing:  
+thunderbird got 15 people hired in 2020, [in 2022](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/) revenue was about 6M (more then double the previous year), they explained the growth by saing:  
 
 >Before we discuss that, you might be wondering what we did differently to generate such a significant surge of support last year. 
 
