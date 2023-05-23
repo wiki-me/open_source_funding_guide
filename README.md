@@ -120,6 +120,8 @@ repository or the homepage )
 
 [Open Collective](https://opencollective.com/)
 
+[Mitra](https://codeberg.org/silverpill/mitra) - a open source microblogging service that is a part of the fediverse, and has an option to subscribe to exclusive content.
+
 # learning resources:
 
 [I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
