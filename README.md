@@ -122,7 +122,7 @@ repository or the homepage )
 
 [Mitra](https://codeberg.org/silverpill/mitra) - a open source microblogging service that is a part of the fediverse, and has an option to subscribe to exclusive content.
 
-[thank.dev](https://thanks.dev/) and [stackaid](https://www.stackaid.us/) - software the automatically distribute funds.
+[thank.dev](https://thanks.dev/) and [stackaid](https://www.stackaid.us/) - software that automatically distribute funds.
 
 # learning resources:
 
