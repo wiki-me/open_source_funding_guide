@@ -110,6 +110,10 @@ repository or the homepage )
 
 [How React Flow became a financially sustainable open source library](https://reactflow.dev/blog/asking-for-money-for-open-source/)
 
+[How JHipster’s Bounty System saved the project]([url](https://blog.opencollective.com/jhipsters-bounty-system-and-how-it-saved-the-project/))
+
+Sponsers [get]([url](https://www.jhipster.tech/sponsors/)) a specific number of bounties per month depending on how much they give, by the end of the month the bounty is gone.
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
