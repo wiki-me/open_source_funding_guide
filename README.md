@@ -114,6 +114,10 @@ repository or the homepage )
 
 Sponsers [get]([url](https://www.jhipster.tech/sponsors/)) a specific number of bounties per month depending on how much they give, by the end of the month the bounty is gone.
 
+[mariadb](https://en.wikipedia.org/wiki/MariaDB)
+
+Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb/) for some components which converts to a open source license after a while but until then has additional restrictions , for example [less then three server instances in production](https://mariadb.com/projects-using-bsl-11/)
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
