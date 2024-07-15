@@ -134,9 +134,10 @@ Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb
 
 # learning resources:
 
-[I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
+[I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/) and [Maintaining Go as a day job - a year later
+](https://fosdem.org/2024/schedule/event/fosdem-2024-2000-maintaining-go-as-a-day-job-a-year-later/)
 
-Authors makes a income similar to the one he had at google, by offering retainers to companies that benefit from his work , and using the reputation he acquired as a open source maintainer to offer consulting.
+Authors makes a income similar to the one he had at google, by offering retainers to companies that benefit from his work , and using the reputation he acquired as a open source maintainer to offer consulting. he argues you should learn how to sell.
 
 [14 Rewards for Software Developers to Fund Independent
 Projects](https://blog.patreon.com/rewards-software-developers)
