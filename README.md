@@ -134,6 +134,8 @@ Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb
 
 # learning resources:
 
+[10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
+
 [I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/) and [Maintaining Go as a day job - a year later
 ](https://fosdem.org/2024/schedule/event/fosdem-2024-2000-maintaining-go-as-a-day-job-a-year-later/)
 
