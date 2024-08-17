@@ -122,6 +122,8 @@ Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb
 
 [Liberapay](https://liberapay.com/)
 
+[Polar](https://polar.sh/)
+
 [rysolv](https://www.rysolv.com/)
 
 [onlysponsors](https://onlysponsors.dev/)
