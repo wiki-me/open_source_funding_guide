@@ -61,6 +61,12 @@ to \"wanting\" and dopamine and is used in marketing.
 
 # case studies
 
+[KDE](https://pointieststick.com/2024/12/02/i-think-the-donation-notification-works/)
+
+Similar to thunderbird, in app notifactions appeared asking for donations ([see details](https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/) .this made donating more discoverable and improved the conversion rate). and it seemed to work well because KDE recieved in a single day what it recieved in the prior two months (and that data includes only paypal),
+
+
+
 [linux mint](https://linuxmint.com/)
 
 [godot engine](https://godotengine.org/)
