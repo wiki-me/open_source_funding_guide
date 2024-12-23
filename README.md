@@ -138,7 +138,7 @@ Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb
 
 [Mitra](https://codeberg.org/silverpill/mitra) - a open source microblogging service that is a part of the fediverse, and has an option to subscribe to exclusive content.
 
-[thank.dev](https://thanks.dev/) and [stackaid](https://www.stackaid.us/) - software that automatically distribute funds.
+[thank.dev](https://thanks.dev/), [stackaid](https://www.stackaid.us/) and [ecosyste.ms funds](https://funds.ecosyste.ms/) - software that automatically distribute funds.
 
 # learning resources:
 
