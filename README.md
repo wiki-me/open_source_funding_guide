@@ -124,6 +124,10 @@ Sponsers [get]([url](https://www.jhipster.tech/sponsors/)) a specific number of 
 
 Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb/) for some components which converts to a open source license after a while but until then has additional restrictions , for example [less then three server instances in production](https://mariadb.com/projects-using-bsl-11/)
 
+[Shattered Pixel](https://www.patreon.com/ShatteredPixel)
+
+This might be the most well funded open source game in existence (i didn't see a open source game with a larger number of patreon supporters) . its rewards seem motivating and include (i am quoting) : "weekly mini-blogs with exclusive dev details" , "Join the Patreon Discord, with a dev log and chat channels." "Vote in monthly polls that influence content direction.", "A private discord channel and 2x voting power in polls."
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
