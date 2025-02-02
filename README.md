@@ -126,7 +126,7 @@ Mariab db uses the [business source license](https://mariadb.com/bsl-faq-mariadb
 
 [Shattered Pixel](https://www.patreon.com/ShatteredPixel)
 
-This might be the most well funded open source game in existence (i didn't see a open source game with a larger number of patreon supporters) . its rewards seem motivating and include (i am quoting) : "weekly mini-blogs with exclusive dev details" , "Join the Patreon Discord, with a dev log and chat channels." "Vote in monthly polls that influence content direction.", "A private discord channel and 2x voting power in polls."
+This might be the most well funded open source game in existence (i didn't see a open source game with a larger number of patreon supporters) . its rewards seem motivating and include (i am quoting) : "weekly mini-blogs with exclusive dev details" , "Join the Patreon Discord, with a dev log and chat channels", "Vote in monthly polls that influence content direction", "A private discord channel and 2x voting power in polls". the game is also [sold](https://shatteredpixel.com/shatteredpd/) on steam, gog.com and the apple store. 
 
 # websites:
 
