@@ -71,7 +71,7 @@ Similar to thunderbird, in app notifactions appeared asking for donations ([see 
 
 [godot engine](https://godotengine.org/)
 
-[ruby together](https://rubytogether.org/)
+[Ruby Central](https://rubycentral.org/)
 
 [python software foundation](https://www.python.org/psf/)
 
