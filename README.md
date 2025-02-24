@@ -114,6 +114,10 @@ US\$12922.00/month (on march 2021).
 meaning basically how many people view something on stuff like the
 repository or the homepage )
 
+[KiCad](https://www.kicad.org/sponsors/sponsors/)
+
+KiCad makes donations using sponsorships that basically advertize the sponsorer (see [details](https://www.kicad.org/sponsors/become-a-sponsor/)). it is atleast 79K USD (as of 24/2/2025). a funding campaign with the donations matched by some organisation also raised 57K USD.
+
 [How React Flow became a financially sustainable open source library](https://reactflow.dev/blog/asking-for-money-for-open-source/)
 
 [How JHipster’s Bounty System saved the project](https://blog.opencollective.com/jhipsters-bounty-system-and-how-it-saved-the-project/)
