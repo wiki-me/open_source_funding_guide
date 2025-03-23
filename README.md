@@ -196,3 +196,17 @@ talk by the Founder of nextcloud and owncloud.
 
 Post by a full time OSS developer
 
+# how to encourage or incentivize financial contributions
+
+a few ideas:
+
+* development polls where people can vote on what will be developed next (Godot does that iirc).
+
+* a promise of prioritized support (done by blender).
+
+* sponsorship where you can promise page views (vue.js made  [15K](https://graphtreon.com/creator/evanyou) a month this [way](https://www.patreon.com/evanyou)).
+
+* setting up a discord with exclusive access to the developers. the developers can still visit the "regular" channel ([space station 14](https://www.patreon.com/spacestation14) does this)
+* mention the list of contributors on blog posts (linux mint does this [e.g.](https://blog.linuxmint.com/?p=4811) ).
+
+ i think it is useful to try to avoid overconfidence bias and actually ask users what would get them to contribute to the project.
