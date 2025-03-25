@@ -75,6 +75,8 @@ Similar to thunderbird, in app notifactions appeared asking for donations ([see 
 
 [python software foundation](https://www.python.org/psf/)
 
+the PSF had a revenue of [4.17M](https://projects.propublica.org/nonprofits/organizations/43594598) in 2023. the board of directors is elected by the members of the foundation which include [volunteers](https://www.python.org/psf/membership/) ("Contributing Members") and people who donate 99$ a year ("Supporting Member"). this gives people a incentive to donate as they might think they could influence the foundation to do things they think are useful to them or the python community in general. it might also help people who are not typically open source contributors influence the foundation (e.g. economists, psychologists, political scientists or just managers).
+
 [OpenStreetMap
 Foundation](https://wiki.osmfoundation.org/wiki/Main_Page)
 
