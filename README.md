@@ -150,6 +150,8 @@ This might be the most well funded open source game in existence (i didn't see a
 
 [thank.dev](https://thanks.dev/), [stackaid](https://www.stackaid.us/) and [ecosyste.ms funds](https://funds.ecosyste.ms/) - software that automatically distribute funds.
 
+[drips](https://www.drips.network/) - People can create teams where FOSS projects funding is allocated in a certain . and people can donate to that allocation. $1.6M already given as of 29/3/2025
+
 # learning resources:
 
 [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
