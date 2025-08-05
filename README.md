@@ -139,6 +139,10 @@ This might be the most well funded open source game in existence (i didn't see a
 
 People make proposals to work for several months on a few things ( kinda like bounties but a plan for multiple issues). Seems to work well and people are getting a good salary . of couse that might be partially attributed to digital currencies like monero having a lot of money involved in them.
 
+[LibrePCB](https://librepcb.org/blog/2025-08-05_building_income_through_librepcb/)
+
+It used a grant and some money made using freelancing and some donations which should not amount to much. reaching about 50% of the salary at the "regular" job after about 2 years. [ordering](https://librepcb.org/donate/) the creation of PCB through the software also gives a small share of the income to librePCB.
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
