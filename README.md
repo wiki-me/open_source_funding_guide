@@ -143,6 +143,10 @@ People make proposals to work for several months on a few things ( kinda like bo
 
 It used a grant and some money made using freelancing and some donations which should not amount to much. reaching about 50% of the salary at the "regular" job after about 2 years. [ordering](https://librepcb.org/donate/) the creation of PCB through the software also gives a small share of the income to librePCB.
 
+[bookstack](https://www.bookstackapp.com/blog/decade-of-bookstack/)
+
+The author mentions making the same amount of money as he did in his job as a lead developer. revenue comes from [support plan](https://www.bookstackapp.com/support/) and help with system administration stuff and higher priority in handling software development requests. also there is a [sponsorship program](https://github.com/sponsors/ssddanbrown) where the logo is displayed on the website (more funding means bigger logos).
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
