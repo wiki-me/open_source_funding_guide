@@ -147,6 +147,10 @@ It used a grant and some money made using freelancing and some donations which s
 
 The author mentions making the same amount of money as he did in his job as a lead developer. revenue comes from [support plan](https://www.bookstackapp.com/support/) and help with system administration stuff and higher priority in handling software development requests. also there is a [sponsorship program](https://github.com/sponsors/ssddanbrown) where the logo is displayed on the website (more funding means bigger logos).
 
+[Livewire and Alpine.js](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
+
+Author reported how he made 1 million dollars: 200k from Companies paying him to put their logos on his websites and such. 725k from Livewire premium screencasts (He probably means [paid video tutorials](https://livewire.laravel.com/screencast/getting_started/installation)).
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
