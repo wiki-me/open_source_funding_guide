@@ -169,6 +169,8 @@ Author reported how he made 1 million dollars: 200k from Companies paying him to
 
 [drips](https://www.drips.network/) - People can create teams where FOSS projects funding is allocated in a certain . and people can donate to that allocation. $1.6M already given as of 29/3/2025
 
+[Open Source Endowment](https://endowment.dev/) - a [endowment](https://en.wikipedia.org/wiki/Financial_endowment) for open source projects.
+
 # learning resources:
 
 [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
