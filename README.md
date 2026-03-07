@@ -151,6 +151,10 @@ The author mentions making the same amount of money as he did in his job as a le
 
 Author reported how he made 1 million dollars: 200k from Companies paying him to put their logos on his websites and such. 725k from Livewire premium screencasts (He probably means [paid video tutorials](https://livewire.laravel.com/screencast/getting_started/installation)).
 
+[https://github.com/openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+
+openfront is a fairly popular strategy game with around 4.3M views (in february 2026 according to similarweb). It has ads on his homepage (which are removed at least one ad blocker, ublock origin). You can also buy some cosmetics that change how the map looks.
+
 # websites:
 
 [Liberapay](https://liberapay.com/)
